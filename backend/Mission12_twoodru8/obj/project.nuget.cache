@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Vm5HhqLPR0N9SpbixlZ+y1n7VTOEQ9I9rftW6o7Sp6aGYln9eMxUyM5YFsW5uEFpg5/i/ujkzk6fkia2g5yDA==",
+  "success": true,
+  "projectFilePath": "/Users/tannerwoodrum/Documents/SchoolBYU/Winter_2023/IS413/Mission12_twoodru8/backend/Mission12_twoodru8/Mission12_twoodru8.csproj",
+  "expectedPackageFiles": [
+    "/Users/tannerwoodrum/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/tannerwoodrum/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/tannerwoodrum/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/tannerwoodrum/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/tannerwoodrum/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/tannerwoodrum/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
